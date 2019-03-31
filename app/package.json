@@ -30,7 +30,7 @@
     "electron-json-storage": "^2.0.0",
     "electron-localshortcut": "^0.6.1",
     "node-notifier": "^4.6.0",
-    "open": "0.0.5",
+    "open": "6.0.0",
     "request": "^2.72.0"
   }
 }
